@@ -13,7 +13,7 @@
 * Prepared the data for the algorithm. If the data was asymmetrically distributed, managed the skewness with log transformation. Scaled the data using StandardScaler.
 * Found the optimal number of clusters(elbow method). Performed clustering using Kmeans.
 * Analysed the clusters and commented on the findings.
-## Data visualization([Dashboard link](https://public.tableau.com/app/profile/vinoth.kannan/viz/Kannan/Dashboard1#1)
+## Data visualization([Dashboard link](https://public.tableau.com/app/profile/vinoth.kannan/viz/Kannan/Dashboard1#1))
 * Country-wise analysis to demonstrate average spend. Used a bar chart to show the monthly figures.
 * Made a Bar graph of top 15 products which were mostly ordered by the users to show the number of products sold
 * Made a Bar graph to show the count of orders vs. hours throughout the day
